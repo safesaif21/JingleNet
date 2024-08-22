@@ -6,8 +6,7 @@
 // ------------
 //
 // Name : Saif Ali
-// St.# : 301459324
-// Email: saif_ali_2@sfu.ca
+// Email: saa225@sfu.ca
 //
 //
 // Statement of Originality
